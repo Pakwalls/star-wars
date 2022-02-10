@@ -47,7 +47,7 @@
 .page {
   margin: 0 auto;
   overflow: hidden;
-  background-image: url(/image/bg_stars.jpg);
+  background-image: url(./image/bg_stars.jpg);
   background-size: contain;
 }
 
